@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC303: Feminist Politics"
+course_description: "An introduction to feminist political thought, examining how feminists have reacted to and shaped conventional political theory. Discusses the 'waves' of feminism that have characterized feminist political theory and assesses the changing role of gender in contemporary public life."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Second Wave Feminism** <span id="3"></span> 
 *Though the exact dates of the Second Wave of the feminist movement are
 disputed, most agree that it began in the 1960s and lasted through the

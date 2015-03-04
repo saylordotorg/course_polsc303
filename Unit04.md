@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC303: Feminist Politics"
+course_description: "An introduction to feminist political thought, examining how feminists have reacted to and shaped conventional political theory. Discusses the 'waves' of feminism that have characterized feminist political theory and assesses the changing role of gender in contemporary public life."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Third Wave Feminism** <span id="4"></span> 
 *In this unit, we will look at the Third Wave of the feminist movement,
 which challenged fundamental assumptions about the category of “woman”

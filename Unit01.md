@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC303: Feminist Politics"
+course_description: "An introduction to feminist political thought, examining how feminists have reacted to and shaped conventional political theory. Discusses the 'waves' of feminism that have characterized feminist political theory and assesses the changing role of gender in contemporary public life."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Feminism and Its Political and Cultural Discontents** <span
 id="1"></span> 
 *In this unit, we will look at different definitions of feminism and
