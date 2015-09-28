@@ -127,3 +127,4 @@ etc.
 - [Unit 4](https://legacy.saylor.org/polsc303/Unit04/)
 - [Unit 5](https://legacy.saylor.org/polsc303/Unit05/)
 - [Unit 6](https://legacy.saylor.org/polsc303/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC303/POLSC303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC303/POLSC303-FinalExam-Answers.html)
