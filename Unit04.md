@@ -167,7 +167,7 @@ feminism.*
     “Feminist Knowledge Claims and the Postmodern Critique”**
     Link: Culturecat Rhetoric and Feminism: Clancy Ratliff’s [“Feminist
     Knowledge Claims and the Postmodern
-    Critique”](http://www.saylor.org/site/wp-content/uploads/2013/04/POLSC303-4.1.2-FeministKnowledgeClaims.pdf)
+    Critique”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC303-4.1.2-FeministKnowledgeClaims.pdf)
     (PDF)  
         
      Instructions: Read this article.  
