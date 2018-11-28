@@ -309,7 +309,7 @@ System** <span id="5.5"></span> 
     Link: *Psychological Bulletin*, Vol. 100, No. 3 (1986): Alice H.
     Eagly and Valerie J. Steffan’s [“Gender and Aggressive Behavior: A
     Meta-Analytic Review of the Social Psychological
-    Literature”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych406-7.2.pdf)
+    Literature”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych406-7.2.pdf)
     (PDF)  
         
      Instructions: Please click on the link above to download the PDF
